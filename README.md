@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/umar-tolibov/">
     <img src="https://img.shields.io/badge/LinkedIn-Umar%20Tolibov-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/umartolibov">
+    <img src="https://img.shields.io/badge/Kaggle-umartolibov-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
