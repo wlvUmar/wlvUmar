@@ -10,6 +10,12 @@
   <a href="mailto:tolibovu14@gmail.com">
     <img src="https://img.shields.io/badge/Email-tolibovu14@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://t.me/n0_odle">
+    <img src="https://img.shields.io/badge/Telegram-@n0__odle-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/umar-tolibov/">
+    <img src="https://img.shields.io/badge/LinkedIn-Umar%20Tolibov-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
