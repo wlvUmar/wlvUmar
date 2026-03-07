@@ -7,8 +7,8 @@
   <a href="https://continium.uz">
     <img src="https://img.shields.io/badge/Portfolio-continium.uz-4CAF50?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:umar@continium.uz">
-    <img src="https://img.shields.io/badge/Email-umar@continium.uz-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:tolibovu14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tolibovu14@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
