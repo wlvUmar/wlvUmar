@@ -1,6 +1,6 @@
 <h1 align="center">Umar Tolibov</h1>
 <p align="center">
-  Backend Engineer · AI/ML Enthusiast · Building things that work
+  ML Engineer · Web Development
 </p>
 
 <p align="center">
@@ -22,56 +22,37 @@
 
 ### About
 
-I build backend services and AI-powered applications. I care about clean architecture, async I/O, and shipping things that actually run in production — not just on localhost.
+I'm focused on machine learning — building models, working with data, and turning ideas into experiments. On the side I do web development, mostly backend with some full-stack when needed.
 
 ---
 
 ### Tech Stack
 
-**Backend**
+**ML / AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**AI / ML**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Frontend & Infra**
+**Web**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
 ---
 
-### Featured Projects
+### Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Continium**](https://github.com/wlvUmar/Continium) | Full-stack goal & time tracking app. Deployed at [continium.uz](https://continium.uz) | FastAPI · SQLite · Vanilla JS · Docker |
-| [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Microservice for subscriptions, plans, and payments with full auth | FastAPI · PostgreSQL · JWT |
-| [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | CCTV microservice that detects anomalies in real-time using a trained model | Python · CV · Microservice |
+| [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Microservice for subscriptions, plans, and payments with full auth | FastAPI · PostgreSQL |
+| [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | Connects to CCTV cameras and detects anomalies using a trained model | Python · Computer Vision |
 | [**AI Text Detection**](https://github.com/wlvUmar/AI-Text-Detection) | Detects AI-generated text and humanizes it | Python · NLP |
 | [**JuristBot**](https://github.com/wlvUmar/JuristBot) | AI-powered Telegram bot for law-related queries | Python · Telegram API |
-| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Predicts stock movement for next N steps from historical data | Python · XGBoost · FastAPI |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wlvUmar&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlvUmar&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
+| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Predicts stock price movement for next N steps from historical data | Python · XGBoost |
