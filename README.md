@@ -57,7 +57,7 @@ I'm focused on machine learning — building models, working with data, and turn
 | [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Subscription and payment management microservice with authentication and plan management features | FastAPI · PostgreSQL |
 | [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | Computer vision system for CCTV anomaly detection using machine learning models | Python · Computer Vision |
 | [**CustomCMS**](https://github.com/wlvUmar/CustomSEOfocusedCMS) | Custom CMS with an administrative dashboard and SEO-oriented architecture for dynamic content management | PHP · JavaScript · Python |
-| [**JuristBot**](https://github.com/wlvUmar/JuristBot) | AI-assisted Telegram bot for legal consultations, document generation, and subscription management | Python · Telegram API |
-| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Machine learning model for forecasting short-term stock price movements from historical market data | Python · XGBoost |
+| [**JuristBot**](https://github.com/wlvUmar/JuristBot) |  LLM-powered legal assistant with document generation, retrieval-augmented responses, and Telegram integration | Python · LLM APIs · Telegram API  |
+| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) |  LSTM-based time series forecasting system for stock price movement prediction with custom preprocessing pipelines and PyTorch Dataset implementations | PyTorch · LSTM · Time Series  |
 | [**Car Accident API**](https://github.com/wlvUmar/Car-Accident) | ML-powered API for car accident risk prediction with a focus on model serving and deployment workflows | FastAPI · XGBoost |
 | [**RecAPI**](https://github.com/wlvUmar/RecAPI) | Recommendation system backend using vector similarity search, JWT authentication, and movie metadata management | FastAPI · PostgreSQL · Vector Search |
