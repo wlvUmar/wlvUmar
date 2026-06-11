@@ -53,9 +53,11 @@ I'm focused on machine learning — building models, working with data, and turn
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Continium**](https://github.com/wlvUmar/Continium) | Full-stack goal & time tracking app. Deployed at [continium.uz](https://continium.uz) | FastAPI · SQLite · Vanilla JS · Docker |
-| [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Microservice for subscriptions, plans, and payments with full auth | FastAPI · PostgreSQL |
-| [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | Connects to CCTV cameras and detects anomalies using a trained model | Python · Computer Vision |
-| [**CustomCMS**](https://github.com/wlvUmar/CustomSEOfocusedCMS) | Content Management system with heavy focus on Search Engine Optimization and admin panel | PHP, Js, Python |
-| [**JuristBot**](https://github.com/wlvUmar/JuristBot) | AI-powered Telegram bot for law-related queries | Python · Telegram API |
-| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Predicts stock price movement for next N steps from historical data | Python · XGBoost |
+| [**Continium**](https://github.com/wlvUmar/Continium) | Full-stack goal and time tracking platform with authentication, CI/CD, and deployment to production. Live at [continium.uz](https://continium.uz) | FastAPI · SQLite · Vanilla JS · Docker |
+| [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Subscription and payment management microservice with authentication and plan management features | FastAPI · PostgreSQL |
+| [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | Computer vision system for CCTV anomaly detection using machine learning models | Python · Computer Vision |
+| [**CustomCMS**](https://github.com/wlvUmar/CustomSEOfocusedCMS) | Custom CMS with an administrative dashboard and SEO-oriented architecture for dynamic content management | PHP · JavaScript · Python |
+| [**JuristBot**](https://github.com/wlvUmar/JuristBot) | AI-assisted Telegram bot for legal consultations, document generation, and subscription management | Python · Telegram API |
+| [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Machine learning model for forecasting short-term stock price movements from historical market data | Python · XGBoost |
+| [**Car Accident API**](https://github.com/wlvUmar/Car-Accident) | ML-powered API for car accident risk prediction with a focus on model serving and deployment workflows | FastAPI · XGBoost |
+| [**RecAPI**](https://github.com/wlvUmar/RecAPI) | Recommendation system backend using vector similarity search, JWT authentication, and movie metadata management | FastAPI · PostgreSQL · Vector Search |
