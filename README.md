@@ -56,6 +56,6 @@ I'm focused on machine learning — building models, working with data, and turn
 | [**Continium**](https://github.com/wlvUmar/Continium) | Full-stack goal & time tracking app. Deployed at [continium.uz](https://continium.uz) | FastAPI · SQLite · Vanilla JS · Docker |
 | [**SubPlanAPI**](https://github.com/wlvUmar/SubPlanAPI) | Microservice for subscriptions, plans, and payments with full auth | FastAPI · PostgreSQL |
 | [**Security Camera Anomaly**](https://github.com/wlvUmar/Security-Camera-Anomaly) | Connects to CCTV cameras and detects anomalies using a trained model | Python · Computer Vision |
-| [**AI Text Detection**](https://github.com/wlvUmar/AI-Text-Detection) | Detects AI-generated text and humanizes it | Python · NLP |
+| [**CustomCMS**](https://github.com/wlvUmar/CustomSEOfocusedCMS) | Content Management system with heavy focus on Search Engine Optimization and admin panel | PHP, Js, Python |
 | [**JuristBot**](https://github.com/wlvUmar/JuristBot) | AI-powered Telegram bot for law-related queries | Python · Telegram API |
 | [**Stock Movement**](https://github.com/wlvUmar/Stock-movement) | Predicts stock price movement for next N steps from historical data | Python · XGBoost |
